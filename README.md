@@ -24,9 +24,9 @@ Total Number of Customers
 
 📁 Files Included
 
-E-Commerce-Sales-Dashboard.pbix – The main Power BI project file.
+E-Commerce-Dashboard.pbix – The main Power BI project file.
 
-image_cd3ed1.png – An image preview of the dashboard.
+E-Commerce-Sales-Dashboard.png – An image preview of the dashboard.
 
 Cleaned_Online_Retail_2009_2010.csv – The dataset used to build the dashboard.
 
