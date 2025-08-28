@@ -28,11 +28,13 @@ E-Commerce-Dashboard.pbix – The main Power BI project file.
 
 E-Commerce-Sales-Dashboard.png – An image preview of the dashboard.
 
-Cleaned_Online_Retail_2009_2010.csv – The dataset used to build the dashboard.
+Cleaned_Online_Retail_2009_2010.xlsx – The dataset used to build the dashboard.
 
 📦 Data Source
 
 The dataset used in this project is based on real online retail data from a UK-based company, covering transactions from 01/12/2009 to 09/12/2010. The data was cleaned and preprocessed for the purpose of this analysis.
+
+Link for the Original Dataset: https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository
 
 This dashboard was created for learning and demonstration purposes as part of the Future Interns Data Science & Analytics Internship.
 
